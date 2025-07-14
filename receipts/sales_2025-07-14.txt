@@ -1,0 +1,8 @@
+========= DAILY SALES (2025-07-14) =========
+Date: Mon Jul 14 06:33:10 BST 2025
+---------------------------
+Medicine        Qty        Price      Subtotal  
+Aspirin         3          3          9         
+Napa Extra      5          7          35        
+---------------------------
+Total: 44 BDT
